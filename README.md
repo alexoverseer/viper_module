@@ -13,7 +13,7 @@
 
 3) open terminal and execute this in the same project's folder: 
 ```bash
-$ generamba gen Module swift
+$ generamba gen ModuleName viper_module
 ```
 To instantiate a module you have just to call **ModuleViewController.instantiate()**
 
